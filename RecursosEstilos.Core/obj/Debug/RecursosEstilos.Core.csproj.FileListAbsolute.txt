@@ -1,0 +1,34 @@
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.csproj.CoreCompileInputs.cache
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.App.xaml.g.cs
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.EjemploView.xaml.g.cs
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.EstilosImplicitosView.xaml.g.cs
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.dll
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.pdb
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\RecursosEstilos.Core.dll
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\RecursosEstilos.Core.pdb
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.csprojResolveAssemblyReference.cache
+c:\users\jgomezf\source\repos\RecursosEstilos\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.TriggerStyleView.xaml.g.cs
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\RecursosEstilos.Core.dll
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\RecursosEstilos.Core.pdb
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.csprojResolveAssemblyReference.cache
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.csproj.CoreCompileInputs.cache
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.App.xaml.g.cs
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.EjemploView.xaml.g.cs
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.EstilosImplicitosView.xaml.g.cs
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.TriggerStyleView.xaml.g.cs
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.dll
+C:\Users\jgomezf\source\repos\RecursosEstilos - Copy\RecursosEstilos.Core\obj\Debug\RecursosEstilos.Core.pdb
