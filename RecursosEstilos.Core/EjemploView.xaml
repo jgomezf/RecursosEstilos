@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecursosEstilos.Core.EjemploView">
+    <ContentPage.Resources>
+        <!--Diccionario de Recursos Global-->
+        <ResourceDictionary>
+            <Color x:Key="MiColor">Red</Color>
+            <!--Estilo-->
+            <!--<Style x:Key="EstiloBotonBase" TargetType="Button">                
+                <Setter Property="TextColor" Value="Yellow" />
+                <Setter Property="FontSize" Value="40"/>
+            </Style>-->
+            
+            <!--Estilo Basado en otro estilo-->
+            <!--<Style x:Key="EstiloBoton" BasedOn="{StaticResource EstiloBotonBase}" TargetType="Button">
+                <Setter Property="TextColor" Value="Blue"/>                
+            </Style>-->
+        </ResourceDictionary>        
+    </ContentPage.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <!--Diccionario de Recursos a nivel de elemento-->
+        <!--<Grid.Resources>
+            <ResourceDictionary>
+                <Color x:Key="MiColor">Blue</Color>
+            </ResourceDictionary>
+        </Grid.Resources>-->
+        
+        <BoxView Grid.Row="0" Color="{StaticResource MiColor}"/>
+        <Entry x:Name="texto" Grid.Row="1" Text=""/>
+        <Button Grid.Row="2" Text="Botón" />
+    </Grid>
+    
+    
+    <!--<ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin Forms!" />
+        </StackLayout>
+    </ContentPage.Content>-->
+</ContentPage>

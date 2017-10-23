@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecursosEstilos.Core.TriggerStyleView">
+    <ContentPage.Content>
+        <StackLayout x:Name="panel" VerticalOptions="Center"> 
+            <StackLayout.Resources>
+                <ResourceDictionary>
+                    <!--Trigger-->
+                    <Style x:Name="MyEntryStyle" TargetType="Entry" >
+                        <Style.Triggers>
+                            <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                                <Setter Property="TextColor" Value="Red"/>
+                                <Setter Property="FontSize" Value="30"/>
+                            </Trigger>                            
+                        </Style.Triggers>                        
+                    </Style>
+                    <!--DataTrigger-->
+                    <Style x:Name="MyButtonStyle" TargetType="Button">
+                        <Style.Triggers>
+                            <DataTrigger TargetType="Button" Binding="{Binding Text.Length, Source={x:Reference mensaje}}" Value="0">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </ResourceDictionary>
+            </StackLayout.Resources>
+
+            <Entry Placeholder="Nombre" Text="Juan D." />
+            <Entry Placeholder="Correo" Text="JuanD@intergrupo.com" Keyboard="Email" />
+            <Entry Placeholder="Teléfono" Text="3216548971" Keyboard="Telephone"/>
+            <Entry x:Name="mensaje" Placeholder="Mensaje" Text="" />
+            <Button Text="Enviar" Margin="10"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
